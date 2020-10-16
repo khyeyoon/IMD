@@ -9,6 +9,28 @@ To expand our algorithm to real-world applications, we analyze real-world damage
 to ensure robustness against various damaged images. In addition, we establish a new inventory management dataset (IMD) 
 with real-world damaged images of 10,000 sheets in real retail store environments. 
 
+* * *
+
+## IMD examples
+
+### Box
+
+<img src="/assets/box.PNG" width="80%" height="80%">
+
+### Tag
+
+<img src="/assets/tag.PNG" width="80%" height="80%">
+
+### Statement
+
+<img src="/assets/statement.PNG" width="80%" height="80%">
+
+### IMD with real-world damaged images
+
+<img src="/assets/IMD.PNG" width="80%" height="80%">
+
+* * *
+
 ## Demo Video
 
 ### Item tag - Item box matching 

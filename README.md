@@ -1,8 +1,8 @@
 # IMD (Official)
 
-## Introduction
-
 <img src="/assets/pipeline.PNG" width="100%" height="100%">
+
+## Introduction
 
 We propose an OCR-based inventory management algorithm to replace the labor-intensive inventory management system.
 To expand our algorithm to real-world applications, we analyze real-world damaged images and propose DAR learning strategy 
